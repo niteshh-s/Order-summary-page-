@@ -1,0 +1,74 @@
+body{
+  background-image: url("images/pattern-background-desktop.svg");
+  background-color: hsl(225, 100%, 94%);
+  text-align: center;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+h3{
+  font-weight: bold;
+  margin: 8% 5% 5%;
+}
+
+p{
+  font-size: 0.9rem;
+  padding: 0 4%;
+  color: grey;
+
+}
+
+.container-fluid{
+  background-color: white;
+  width: 25%;
+  border-radius: 14px;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  padding: 0 0 2% 0;
+}
+
+.description{
+  padding: 0 10%;
+}
+.image img{
+  width:100%;
+  border-radius: 14px 14px 0 0;
+}
+
+.pricing{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 14px;
+}
+
+.pricing-row{
+  margin: 0;
+  padding-top: 4%
+
+}
+
+
+.music-icon{
+  margin-left: 10px;
+}
+.plan{
+  color: black;
+  font-weight: bold;
+  margin: 0;
+}
+
+.payment-button{
+  width: 75%;
+  margin: 25px 0 20px;
+  border-radius: 12px;
+  background-color: hsl(245, 75%, 52%);
+}
+
+.cancel-para{
+  font-weight: 600;
+}
+
+.change-plan{
+  padding-top:10px;
+}
